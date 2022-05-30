@@ -19,7 +19,7 @@ que residen en los mismos directorios a través de la similitud de los nombres d
 Se puede ejecutar utilizando: "python docx2csv.py ROOT_PATH", o, alternativamente, se pedirá la ruta en tiempo de ejecución.
 
 El script espera que la estructura de directorios sólo tenga un nivel de profundidad, es decir, que sea:
-
+x
 root_path
     - directory 1
         - file 1
