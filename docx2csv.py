@@ -1,4 +1,8 @@
 """
+version 0.2
+date 2022-05-14
+Martin Gersbach [mg@museosabiertos.org]
+
 docx2csv.py parses .docx files to extract artwork information, then attempts to pair them up with image files residing in the same directories via filename similarity. It finally outputs a CSV associating each image file to the data parsed from the .docx sharing its name.
 
 It can be run using: "python docx2csv.py ROOT_PATH", or, alternatively the path will be asked for at runtime.
